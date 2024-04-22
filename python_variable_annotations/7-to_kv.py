@@ -2,6 +2,7 @@
 """ module of a function"""
 from typing import List, Union
 
+
 def to_kv(k: str, v: Union[int, float]) -> tuple:
     "Func to return a tuple"
 

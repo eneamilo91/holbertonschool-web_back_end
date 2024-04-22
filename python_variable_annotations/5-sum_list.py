@@ -2,7 +2,8 @@
 """ module of a function"""
 from typing import List
 
-def sum_list(input_list :float) -> float:
+
+def sum_list(input_list: float) -> float:
     "Func to return a sum"
     sum = 0
     for elem in input_list:
